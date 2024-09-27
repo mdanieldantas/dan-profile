@@ -1,6 +1,3 @@
-Claro! Aqui está o README atualizado com os links fornecidos:
-
-```markdown
 # Dan Profile
 
 Dan Profile é uma aplicação web desenvolvida com React e Vite que exibe um cartão de perfil com avatar, nome, biografia e email, além de botões com links para o GitHub, LinkedIn, portfólio de Daniel Dantas e para baixar o currículo.
